@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{3D285D0F-231F-4CA1-85F1-840DDD16F621}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi.Crud/Model/Employee.cs">
+    <Files>
+      <File FileName="WebApi.Crud/Model/Employee.cs" Line="7" Column="5" />
+      <File FileName="WebApi.Crud/Data/ApplicationDbContext.cs" />
+      <File FileName="WebApi.Crud/appsettings.json" />
+      <File FileName="WebApi.Crud/Program.cs" />
+      <File FileName="WebApi.Crud/Controllers/WeatherForecastController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApi.Crud" expanded="True">
+            <Node name="WebApi.Crud" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Employee.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebApi.Crud FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
